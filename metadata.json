@@ -1,0 +1,5 @@
+{
+  "name": "Multi-Broker Trading Journal",
+  "description": "A comprehensive trading journal dashboard to track trades across Zerodha, Fyers, Dhan, and Angel One with AI-powered analysis.",
+  "requestFramePermissions": []
+}
